@@ -1,4 +1,4 @@
 def intrduction(name)
-  puts "hi #{name}!"
+  puts "Hi, my name is #{name}."
 end
 
